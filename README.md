@@ -15,12 +15,16 @@
 
 [2 操作系统](https://gitee.com/coregiu/os-learning)
 
+[3 计算机网络](https://gitee.com/coregiu/network-learning)
+
 #### 软件开发
 [1 RUST语言](https://gitee.com/coregiu/rust-learning)
 
 [2 数据结构和算法](https://gitee.com/coregiu/algorithm-learning)
 
 [3 软件架构设计](https://gitee.com/coregiu/archetecture-learning)
+
+[4 编译原理](https://gitee.com/coregiu/compile-learning)
 
 #### 人工智能
 [1 机器学习](https://gitee.com/coregiu/machine-learning)
