@@ -14,3 +14,7 @@
 	url  = https://gitee.com/coregiu/rust-learning
 	path = rust-learning
 
+[submodule "machine-learning"]
+	url  = https://gitee.com/coregiu/machine-learning
+	path = machine-learning
+
