@@ -18,3 +18,7 @@
 	url  = https://gitee.com/coregiu/machine-learning
 	path = machine-learning
 
+[submodule "robot-learning"]
+	url  = https://gitee.com/coregiu/robot-learning
+	path = robot-learning
+
