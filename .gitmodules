@@ -6,3 +6,7 @@
 	url  = https://gitee.com/coregiu/philosophy
 	path = philosophy
 
+[submodule "mcu_51"]
+	url  = https://gitee.com/coregiu/mcu_51
+	path = mcu_51
+
