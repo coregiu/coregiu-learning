@@ -10,3 +10,7 @@
 	url  = https://gitee.com/coregiu/mcu_51
 	path = mcu_51
 
+[submodule "rust-learning"]
+	url  = https://gitee.com/coregiu/rust-learning
+	path = rust-learning
+
