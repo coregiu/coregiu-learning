@@ -1,0 +1,4 @@
+[submodule "stm32-learning"]
+	url  = https://gitee.com/coregiu/stm32-learning
+	path = stm32-learning
+
