@@ -2,3 +2,7 @@
 	url  = https://gitee.com/coregiu/stm32-learning
 	path = stm32-learning
 
+[submodule "philosophy"]
+	url  = https://gitee.com/coregiu/philosophy
+	path = philosophy
+
