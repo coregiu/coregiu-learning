@@ -4,9 +4,11 @@
 个人学习经验总结
 
 #### 单片机
-[1 51单片机](https://gitee.com/coregiu/mcu_51)
+[1 电子电工技术](https://gitee.com/coregiu/elec-tech-learning)
 
-[2 STM32单片机](https://gitee.com/coregiu/stm32-learning)
+[2 51单片机](https://gitee.com/coregiu/mcu_51)
+
+[3 STM32单片机](https://gitee.com/coregiu/stm32-learning)
 
 #### 计算机
 [1 计算机体系结构](https://gitee.com/coregiu/computer-learning)
@@ -16,7 +18,9 @@
 #### 软件开发
 [1 RUST语言](https://gitee.com/coregiu/rust-learning)
 
-[2 数据结构和算法]()
+[2 数据结构和算法](https://gitee.com/coregiu/algorithm-learning)
+
+[3 软件架构设计](https://gitee.com/coregiu/archetecture-learning)
 
 #### 人工智能
 [1 机器学习](https://gitee.com/coregiu/machine-learning)
