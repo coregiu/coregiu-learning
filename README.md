@@ -10,12 +10,13 @@
 
 #### 计算机
 [1 计算机体系结构](https://gitee.com/coregiu/computer-learning)
-[2 操作系统]()
+
+[2 操作系统](https://gitee.com/coregiu/os-learning)
 
 #### 软件开发
 [1 RUST语言](https://gitee.com/coregiu/rust-learning)
 
-[2 数据结构和算法](https://gitee.com/coregiu/os-learning)
+[2 数据结构和算法]()
 
 #### 人工智能
 [1 机器学习](https://gitee.com/coregiu/machine-learning)
