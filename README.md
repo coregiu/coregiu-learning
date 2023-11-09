@@ -24,7 +24,7 @@
 
 [2 数据结构和算法](https://gitee.com/coregiu/algorithm-learning)
 
-[3 软件架构设计](https://gitee.com/coregiu/archetecture-learning)
+[3 软件架构设计](https://gitee.com/coregiu/architecture-learning)
 
 [4 编译原理](https://gitee.com/coregiu/compile-learning)
 
