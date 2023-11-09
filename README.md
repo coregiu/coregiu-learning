@@ -10,6 +10,8 @@
 
 [3 STM32单片机](https://gitee.com/coregiu/stm32-learning)
 
+[4 QEMU仿真](https://gitee.com/coregiu/qemu-learning)
+
 #### 计算机
 [1 计算机体系结构](https://gitee.com/coregiu/computer-learning)
 
@@ -25,6 +27,8 @@
 [3 软件架构设计](https://gitee.com/coregiu/archetecture-learning)
 
 [4 编译原理](https://gitee.com/coregiu/compile-learning)
+
+[5 经典软件解析](https://gitee.com/coregiu/software-analysis)
 
 #### 人工智能
 [1 机器学习](https://gitee.com/coregiu/machine-learning)
