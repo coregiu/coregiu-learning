@@ -42,3 +42,7 @@
 	url  = https://gitee.com/coregiu/network-learning
 	path = network-learning
 
+[submodule "qemu-learning"]
+	url  = https://gitee.com/coregiu/qemu-learning
+	path = qemu-learning
+
