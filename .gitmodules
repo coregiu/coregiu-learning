@@ -62,3 +62,7 @@
 	url  = https://gitee.com/coregiu/architecture-learning
 	path = architecture-learning
 
+[submodule "elec-tech-learning"]
+	url  = https://gitee.com/coregiu/elec-tech-learning
+	path = elec-tech-learning
+
