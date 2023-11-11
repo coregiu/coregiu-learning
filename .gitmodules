@@ -30,14 +30,6 @@
 	url  = https://gitee.com/coregiu/computer-learning
 	path = computer-learning
 
-[submodule "os-learning"]
-	url  = https://gitee.com/coregiu/os-learning
-	path = os-learning
-
-[submodule "computer-learning"]
-	url  = https://gitee.com/coregiu/computer-learning
-	path = computer-learning
-
 [submodule "network-learning"]
 	url  = https://gitee.com/coregiu/network-learning
 	path = network-learning
