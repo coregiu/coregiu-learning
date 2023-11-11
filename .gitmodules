@@ -54,3 +54,7 @@
 	url  = https://gitee.com/coregiu/software-analysis
 	path = software-analysis
 
+[submodule "compile-learning"]
+	url  = https://gitee.com/coregiu/compile-learning
+	path = compile-learning
+
