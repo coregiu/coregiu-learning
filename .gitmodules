@@ -50,3 +50,7 @@
 	url  = https://gitee.com/coregiu/algorithm-learning
 	path = algorithm-learning
 
+[submodule "software-analysis"]
+	url  = https://gitee.com/coregiu/software-analysis
+	path = software-analysis
+
