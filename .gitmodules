@@ -58,3 +58,7 @@
 	url  = https://gitee.com/coregiu/compile-learning
 	path = compile-learning
 
+[submodule "architecture-learning"]
+	url  = https://gitee.com/coregiu/architecture-learning
+	path = architecture-learning
+
