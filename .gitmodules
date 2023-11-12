@@ -1,60 +1,60 @@
 [submodule "stm32-learning"]
-	url  = https://gitee.com/coregiu/stm32-learning
+	url  = git@gitee.com:coregiu/stm32-learning.git
 	path = stm32-learning
 
 [submodule "philosophy"]
-	url  = https://gitee.com/coregiu/philosophy
+	url  = git@gitee.com:coregiu/philosophy.git
 	path = philosophy
 
 [submodule "mcu_51"]
-	url  = https://gitee.com/coregiu/mcu_51
+	url  = git@gitee.com:coregiu/mcu_51.git
 	path = mcu_51
 
 [submodule "rust-learning"]
-	url  = https://gitee.com/coregiu/rust-learning
+	url  = git@gitee.com:coregiu/rust-learning.git
 	path = rust-learning
 
 [submodule "machine-learning"]
-	url  = https://gitee.com/coregiu/machine-learning
+	url  = git@gitee.com:coregiu/machine-learning.git
 	path = machine-learning
 
 [submodule "robot-learning"]
-	url  = https://gitee.com/coregiu/robot-learning
+	url  = git@gitee.com:coregiu/robot-learning.git
 	path = robot-learning
 
 [submodule "os-learning"]
-	url  = https://gitee.com/coregiu/os-learning
+	url  = git@gitee.com:coregiu/os-learning.git
 	path = os-learning
 
 [submodule "computer-learning"]
-	url  = https://gitee.com/coregiu/computer-learning
+	url  = git@gitee.com:coregiu/computer-learning.git
 	path = computer-learning
 
 [submodule "network-learning"]
-	url  = https://gitee.com/coregiu/network-learning
+	url  = git@gitee.com:coregiu/network-learning.git
 	path = network-learning
 
 [submodule "qemu-learning"]
-	url  = https://gitee.com/coregiu/qemu-learning
+	url  = git@gitee.com:coregiu/qemu-learning.git
 	path = qemu-learning
 
 [submodule "algorithm-learning"]
-	url  = https://gitee.com/coregiu/algorithm-learning
+	url  = git@gitee.com:coregiu/algorithm-learning.git
 	path = algorithm-learning
 
 [submodule "software-analysis"]
-	url  = https://gitee.com/coregiu/software-analysis
+	url  = git@gitee.com:coregiu/software-analysis.git
 	path = software-analysis
 
 [submodule "compile-learning"]
-	url  = https://gitee.com/coregiu/compile-learning
+	url  = git@gitee.com:coregiu/compile-learning.git
 	path = compile-learning
 
 [submodule "architecture-learning"]
-	url  = https://gitee.com/coregiu/architecture-learning
+	url  = git@gitee.com:coregiu/architecture-learning.git
 	path = architecture-learning
 
 [submodule "elec-tech-learning"]
-	url  = https://gitee.com/coregiu/elec-tech-learning
+	url  = git@gitee.com:coregiu/elec-tech-learning.git
 	path = elec-tech-learning
 
