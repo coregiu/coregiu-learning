@@ -1,0 +1,81 @@
+.. _coregiu_summary_index:
+
+================
+个人工作技能学习总结
+================
+
+本人从事计算机业，一直想从底层硬件搞明白计算机到底是怎么工作的，因此我从电工电子技术着手，基本的电路、运放、逻辑门、触发器、时序逻辑电路
+到单片机、通用计算机系统、操作系统、网络到程序语言、数据结构与算法、人工智能全栈的技术做一下学习总结。
+
+
+`01 电工技术 <electrician.rst>`_
+===========
+:doc:`electrician`
+
+单片机
+======
+`1 电子电工技术 <https://gitee.com/coregiu/elec-tech-learning>`_
+
+`2 51单片机 <https://gitee.com/coregiu/mcu_51`_
+
+`3 STM32单片机 <https://gitee.com/coregiu/stm32-learning`_
+
+`4 QEMU仿真 <https://gitee.com/coregiu/qemu-learning`_
+
+#### 计算机
+`1 计算机体系结构 <https://gitee.com/coregiu/computer-learning`_
+
+`2 操作系统 <https://gitee.com/coregiu/os-learning`_
+
+`3 计算机网络 <https://gitee.com/coregiu/network-learning`_
+
+#### 软件开发
+`1 RUST语言 <https://gitee.com/coregiu/rust-learning`_
+
+`2 数据结构和算法 <https://gitee.com/coregiu/algorithm-learning`_
+
+`3 软件架构设计 <https://gitee.com/coregiu/architecture-learning`_
+
+`4 编译原理 <https://gitee.com/coregiu/compile-learning`_
+
+`5 经典软件解析 <https://gitee.com/coregiu/software-analysis`_
+
+#### 人工智能
+`1 机器学习 <https://gitee.com/coregiu/machine-learning`_
+
+#### 机器人
+`1 机械臂 <https://gitee.com/coregiu/robot-learning`_
+
+#### 哲学/心理学
+`1 古典哲学学习总结 <https://gitee.com/coregiu/philosophy`_
+
+目录
+----
+.. toctree::
+    :maxdepth: 3
+    :numbered:
+    :glob:
+
+    01-electronic-technology
+    02-mcu51
+    03-stm32
+    04-qemu
+    05-computer-system
+    06-operation-system
+    07-network
+    08-programming-language
+    09-data-structure-algorithm
+    10-software-architecture
+    11-compiler
+    12-software-analysis
+    13-machine-learning
+    14-roboot
+    15-philosophy
+
+
+=====================================================
+索引
+=====================================================
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

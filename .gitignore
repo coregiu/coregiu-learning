@@ -5,7 +5,6 @@
 *.map
 *.mem
 *.rel
-*.rst
 *.sym
 
 # This is the standard content of my ignore file (for Git):Keil MDK
