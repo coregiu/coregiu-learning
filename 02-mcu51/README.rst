@@ -1,3 +1,5 @@
+.. _02_mcu51_summary_index:
+
 # 基于ubuntu 20.4开发51单片机
 
 ## 使用的软件
@@ -29,7 +31,7 @@ $sudo sdcc led_basic.c -o led_basic.ihx
 $packihx led_basic.ihx > led_basic.hex
 
 第三步，烧录文件到MCU：
-$sudo stcflash led_basic.hex 
+$sudo stcflash led_basic.hex
 
 此命令会自动寻找USB口发命令。如果有多个USB口，需要指定相应端口。
 $sudo stcflash led_basic.hex --port /dev/ttyUSB0

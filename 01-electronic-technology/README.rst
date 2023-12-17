@@ -1,4 +1,4 @@
-.. _electric_summary_index:
+.. _01_electric_summary_index:
 
 ================
 电工技术学习总结
