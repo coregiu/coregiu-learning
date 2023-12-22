@@ -62,18 +62,83 @@ PN结及三极管放大电路是人类史上的一个丰碑，他让人类实现
 .. image:: images/integrated-amplifier.png
 
 
-==========
-4 逻辑数学
-==========
+==================
+4 逻辑数学与门电路
+==================
+数字电路本质上是高电平为1，低电平为0的逻辑运算。
 
-=========
-5 门电路
-=========
+【 1. 基本逻辑运算 】
+① 与
+Y=A · B =AB
+
+② 或
+Y=A+B
+
+③ 非
+Y=A‘
+
+.. image:: images/logic_compute.png
+
+与运算：有0出0，全1出1.
+或运算：有1出1，全0出0.
+
+【 2.复合逻辑运算】
+① 与非
+Y=(A·B)’
+
+.. image:: images/logic_compute_2.png
+
+② 或非
+Y=(A+B)‘
+
+.. image:: images/logic_compute_3.png
+
+③ 与或非
+Y=(A·B+C·D)‘
+
+.. image:: images/logic_compute_3_1.png
+
+④ 异或
+Y=A⊕B= A · B’ + A’ · B
+
+.. image:: images/logic_compute_4.png
+
+⑤ 同或
+Y=A⊙B= A · B +A’ · B’
+
+.. image:: images/logic_compute_5.png
+
+PS：异或逻辑与同或逻辑互为反函数、对偶函数。
+
+【 3. 基本公式 】
+
+.. image:: images/logic_compute_6.png
+
+【 4. 常用公式 】
+
+.. image:: images/logic_compute_7.png
+
+消因子公式证明：
+A + A’B =( AA + AB + AA’ ) + A’B = ( A+A’ ) ( A+B ) = A + B
+
+消项公式证明：
+AB+A’C+BC=AB+A’C+BC(A+A’)=AB+A’C+ABC+A’BC=AB+A’C
+
+AB+A’C+BCD = AB+A’C+BCD(A+A’) = ( AB + ABCD ) + ( A’C + A’CBD) = AB+A’C
+
+【 5. 定理 】
+1. 代入定理
+在任何一个包含A的逻辑等式中，若以另外一个逻辑式带入式中A的位置，则等式依然成立。
+
+2. 反演定理
+对于任意一个逻辑式Y，若将其中所有的‘ · ’换成‘ + ’，‘ + ’换成‘ · ’，1换成0，0换成1，原变量换成反变量，反变量换成原变量，则得到的结果就是Y’，即其反函数。
+
+遵循规则：
+
+3. 对偶定理
+两逻辑式相等，则它们的对偶式也相等。
 
 ======================
-6 触发器及时序逻辑电路
+5 触发器及时序逻辑电路
 ======================
 
-============
-7 半导体制造
-============
