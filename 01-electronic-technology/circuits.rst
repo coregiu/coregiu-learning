@@ -160,4 +160,12 @@ X相当于一个电阻，单位也是欧姆，那么C1与R1串联分压，当频
 
 无稳态应用电路
 ----------------------
+电路1：脉宽调制器
 
+.. image:: images/circuit-ne555-no-stable.png
+
+电路2：方波发生器
+
+.. image:: images/circuit-ne555-no-stable.png
+
+应用场景： 振荡电路，闪烁灯等。
