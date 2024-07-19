@@ -133,6 +133,8 @@ X相当于一个电阻，单位也是欧姆，那么C1与R1串联分压，当频
 
 真值表：
 
+.. image:: images/r-s.png
+
 .. image:: images/ne555-value.png
 
 我们知道，数字电路的信号只有两种状态：逻辑低或逻辑高，即通常所说的0状态或1状态、0电平或1电平。
@@ -185,6 +187,6 @@ X相当于一个电阻，单位也是欧姆，那么C1与R1串联分压，当频
 
 电路2：方波发生器
 
-.. image:: images/circuit-ne555-no-stable.png
+.. image:: images/circuit-ne555-no-stable-2.png
 
 应用场景： 振荡电路，闪烁灯等。
